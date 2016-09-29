@@ -5,7 +5,6 @@ import os
 from twython import Twython
 
 #Hier musst du deine Daten einfügen!
-#Hier musst du deine Daten einfuegen!
 apiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 apiSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 accessToken = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
