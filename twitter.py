@@ -1,5 +1,5 @@
 ## Simple Python Twitter Client
-## MK 09.29.16
+## gnzR 09.29.16
 
 #!/usr/bin/env python
 # coding: utf8
@@ -37,4 +37,4 @@ if i == 4:
 	execfile('uptime.py')
 	execfile('temp.py')
 
-print ('Well Done!')
+print ('Fertig!')
